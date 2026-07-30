@@ -20,6 +20,19 @@ This project analyzes SuperStore sales data using Power BI.
 - Data Cleaning.ipynb
 - SuperStoreOrders.csv
 - SuperStore_sales.png
+  
+## Key Insights
+- Total Sales Analysis
+- Regional Performance
+- Top Performing Categories
+- Profit Trends
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- Python (Pandas)
 
 ## Dashboard Preview
 
